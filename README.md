@@ -15,3 +15,12 @@ Python script for data processing
 - gene_map.py - mapping the genes with t1/2 (half life) as per the ENSEMBL genes
 
 - comma_sep1.py - mapping the genes with t1/2 (half life), PubmedID and Kdeg 
+
+
+Perl script for data preprocessing
+
+- afc_extract.pl - extract the gene name, aFC, t1/2, and PMID information
+
+- comma_sep.pl -  mapping the genes name with t1/2 (half life), PubmedID
+
+- gene_id_map.pl - mapping the genes with t1/2 (half life) as per the ENSEMBL genes
